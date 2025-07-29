@@ -1,0 +1,9 @@
+{
+    "name": "gtzlo/spartans",
+    "autoload": {
+        "psr-4": {
+            "Gtzlo\\Spartans\\": "src/"
+        }
+    },
+    "require": {}
+}
