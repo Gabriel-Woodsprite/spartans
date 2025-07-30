@@ -1,9 +1,9 @@
 {
-    "name": "gtzlo/spartans",
-    "autoload": {
-        "psr-4": {
-            "Gtzlo\\Spartans\\": "src/"
-        }
-    },
-    "require": {}
+	"name": "gtzlo/spartans",
+	"autoload": {
+		"psr-4": {
+			"App\\": "src/"
+		}
+	},
+	"require": {}
 }
